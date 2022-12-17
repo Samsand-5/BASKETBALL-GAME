@@ -1,0 +1,140 @@
+[
+  {
+    "ProductName": "OMEN SEQUENCER",
+    "IDList": [
+      "PID_1F41"
+    ]
+  },
+  {
+    "ProductName": "OMEN ENCODER",
+    "IDList": [
+      "PID_3341"
+    ]
+  },
+  {
+    "ProductName": "OMEN SPACER",
+    "IDList": [
+      "PID_3641",
+	  "PID_5141"
+    ]
+  },
+  {
+    "ProductName": "OMEN OUTPOST",
+    "IDList": [
+      "PID_2E41"
+    ]
+  },
+  {
+    "ProductName": "OMEN REACTOR",
+    "IDList": [
+      "PID_2041"
+    ]
+  },
+  {
+    "ProductName": "OMEN PHOTON",
+    "IDList": [
+      "PID_2D41",
+      "PID_2F41"
+    ]
+  },
+  {
+    "ProductName": "OMEN VECTOR",
+    "IDList": [
+      "PID_3B41"
+    ]
+  },
+  {
+    "ProductName": "OMEN VECTOR ESSENTIAL",
+    "IDList": [
+      "PID_3A41"
+    ]
+  },
+  {
+    "ProductName": "OMEN VECTOR WIRELESS",
+    "IDList": [
+      "PID_4441",
+	  "PID_4E41"
+    ]
+  },
+  {
+    "ProductName": "OMEN MINDFRAME",
+    "IDList": [
+      "PID_2841"
+    ]
+  },
+  {
+    "ProductName": "OMEN MINDFRAME PRIME",
+    "IDList": [
+      "PID_3241"
+    ]
+  },
+  {
+    "ProductName": "HP X1000",
+    "IDList": [
+      "PID_3D41"
+    ]
+  },
+  {
+    "ProductName": "OMEN BLAST",
+    "IDList": [
+      "PID_4941"
+    ]
+  },
+  {
+    "ProductName": "OMEN FREQUENCY WIRELESS",
+    "IDList": [
+      "PID_3541"
+    ]
+  },
+  {
+    "ProductName": "GAMING SPEAKERS X1000",
+    "IDList": [
+      "PID_3E41"
+    ]
+  },
+  {
+    "ProductName": "OMEN X 65",
+    "IDList": [
+      "HPN3612",
+	  "HPN3613",
+	  "HPN3614",
+	  "HPN3611"
+    ]
+  },
+  {
+    "ProductName": "OMEN X 25f",
+    "IDList": [
+      "HPN360F",
+      "HPN3610",
+      "HPN360E"
+    ]
+  },
+  {
+    "ProductName": "OMEN X 27",
+    "IDList": [
+      "HPN3645",
+      "HPN3644"
+    ]
+  },
+  {
+    "ProductName": "OMEN 27i",
+    "IDList": [
+      "HPN3674",
+      "HPN3673"
+    ]
+  },
+  {
+    "ProductName": "OMEN X 24c",
+    "IDList": [
+      "HPN36B8",
+	  "HPN36B7"
+    ]
+  },
+  {
+    "ProductName": "HP X 24i",
+    "IDList": [
+      "HPN36DA",
+	  "HPN36D9"
+    ]
+  }
+]

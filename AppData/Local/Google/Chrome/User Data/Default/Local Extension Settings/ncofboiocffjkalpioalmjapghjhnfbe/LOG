@@ -1,0 +1,13 @@
+2022/12/17-14:03:54.271 4ae0 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/MANIFEST-000001
+2022/12/17-14:03:54.272 4ae0 Recovering log #944
+2022/12/17-14:03:54.282 4ae0 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/000944.log 
+2022/12/17-15:12:22.563 c78 Level-0 table #948: started
+2022/12/17-15:12:22.579 c78 Level-0 table #948: 1240399 bytes OK
+2022/12/17-15:12:22.581 c78 Delete type=0 #944
+2022/12/17-19:31:13.004 8b4 Compacting 2@0 + 1@1 files
+2022/12/17-19:31:13.045 8b4 Generated table #949@0: 7 keys, 894986 bytes
+2022/12/17-19:31:13.045 8b4 Compacted 2@0 + 1@1 files => 894986 bytes
+2022/12/17-19:31:13.046 8b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/17-19:31:13.047 8b4 Delete type=2 #943
+2022/12/17-19:31:13.047 8b4 Delete type=2 #945
+2022/12/17-19:31:13.047 8b4 Delete type=2 #948

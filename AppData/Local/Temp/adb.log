@@ -1,0 +1,49 @@
+--- adb starting (pid 14132) ---
+adb I 12-17 21:04:03 14132 12564 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 12-17 21:04:03 14132 12564 main.cpp:63] Version 33.0.1-8253317
+adb I 12-17 21:04:03 14132 12564 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 12-17 21:04:03 14132 12564 main.cpp:63] 
+adb I 12-17 21:04:03 14132 12564 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 12-17 21:04:03 14132 12564 auth.cpp:417] adb_auth_init...
+adb I 12-17 21:04:03 14132 12564 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:274] SetMulticastOutboundInterface for index=18
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:274] SetMulticastOutboundInterface for index=18
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:03 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:04 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:04 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:04 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:06 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:06 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:06 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:10 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:10 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:10 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:18 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:18 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:18 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:34 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:34 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:04:35 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:05:06 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:05:06 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:05:07 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:06:10 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:06:11 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:06:11 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:08:18 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:08:19 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:08:19 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:12:35 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:12:35 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:12:35 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:21:07 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:21:07 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 12-17 21:21:07 14132 12564 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353

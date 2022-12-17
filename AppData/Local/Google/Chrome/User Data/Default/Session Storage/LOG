@@ -1,0 +1,18 @@
+2022/12/17-14:03:49.238 2924 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
+2022/12/17-14:03:49.240 2924 Recovering log #1110
+2022/12/17-14:03:49.241 2924 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/001110.log 
+2022/12/17-16:58:00.836 2f14 Level-0 table #1114: started
+2022/12/17-16:58:00.838 2f14 Level-0 table #1114: 19591 bytes OK
+2022/12/17-16:58:00.840 2f14 Delete type=0 #1110
+2022/12/17-16:58:00.840 2f14 Compacting 4@0 + 1@1 files
+2022/12/17-16:58:00.883 2f14 Generated table #1115@0: 61340 keys, 1457155 bytes
+2022/12/17-16:58:00.883 2f14 Compacted 4@0 + 1@1 files => 1457155 bytes
+2022/12/17-16:58:00.884 2f14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/17-16:58:00.885 2f14 Delete type=2 #1105
+2022/12/17-16:58:00.885 2f14 Delete type=2 #1107
+2022/12/17-16:58:00.885 2f14 Delete type=2 #1109
+2022/12/17-16:58:00.885 2f14 Delete type=2 #1111
+2022/12/17-16:58:00.886 2f14 Delete type=2 #1114
+2022/12/17-21:18:15.099 13c Level-0 table #1117: started
+2022/12/17-21:18:15.103 13c Level-0 table #1117: 17984 bytes OK
+2022/12/17-21:18:15.106 13c Delete type=0 #1113
